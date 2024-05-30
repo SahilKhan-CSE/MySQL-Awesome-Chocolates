@@ -5,5 +5,5 @@
 
 LInk - https://chandoo.org/wp/learn-sql-for-data-analysis/
 
-Noted down some of the interesting questions that came up during my practice.
+🔎 Noted down some of the interesting questions that came up during my practice.
 
